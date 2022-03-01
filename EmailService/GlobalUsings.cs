@@ -1,0 +1,11 @@
+﻿global using System.Web;
+global using System.ComponentModel.DataAnnotations;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.AspNetCore.Mvc;
+global using AutoMapper;
+global using EmailService.Services;
+global using EmailService.Models;
+global using EmailService.Data;
+global using EmailService.Dtos;
+global using EmailService.Profiles;
+global using EmailService.Validation;
